@@ -1,1 +1,1 @@
-Spring BootのStarter Projectサンプル
+Spring Boot DI sample
